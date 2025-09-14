@@ -1,12 +1,29 @@
-# React + Vite
+# 🛒 FakeStore React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **React e-commerce demo** project built using [FakeStoreAPI](https://fakestoreapi.com/).  
+It allows users to browse products, add items to a cart, and proceed to checkout with toal price.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Fetches product data from [FakeStoreAPI](https://fakestoreapi.com/).
+- Add/remove items from the cart.
+- Cart and checkout pages with order summary.
+- Responsive UI styled with **Tailwind CSS**.
+- React Router navigation with active link highlighting.
+- Simple order flow (`Buy Now` button simulates checkout).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **React.js** (frontend)
+- **React Router DOM** (routing)
+- **Axios** (API calls)
+- **Tailwind CSS** (styling)
+- **FakeStoreAPI** (mock product data)
+
+---
+
+## 📦 Installation & Setup
+
+Clone the repo and install dependencies:
