@@ -28,6 +28,6 @@ It allows users to browse products, add items to a cart, and proceed to checkout
 
 Clone the repo and install dependencies:
 
-##Live Preview ⬇️
+## Live Preview ⬇️
 
 [Fake store ](https://fake-store-phi-coral.vercel.app/)
